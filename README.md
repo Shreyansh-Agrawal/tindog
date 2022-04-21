@@ -1,2 +1,2 @@
 TinDog Starting Files
--made using bootstrap
+-made using bootstrap along with HTML, CSS
